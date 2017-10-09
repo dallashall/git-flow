@@ -1,1 +1,4 @@
-const thing1 = {cool: "beans"};
+const thing1 = {};
+const thing1 = {};
+const thing1 = {};
+const thing1 = {};
